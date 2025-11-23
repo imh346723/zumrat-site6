@@ -1,0 +1,68 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color:white;
+    border:3px solid blue;
+    border-radius:10px;
+    padding:6px;
+}
+header a{
+    background-color:blue;
+    border-radius:4px;
+    color:white;
+    padding:3px;
+    text-decoration:none;
+}
+h1{
+    border:1px solid lightgrey;
+    border-radius:12px;
+    text-align:center;
+    color:rgb(106, 106, 223);
+    
+}
+footer{
+    background-color:white;
+}
+footer p{
+    background-color:white;
+    border:3px solid lightgrey;
+    padding:5px;
+}
+nav a{
+    margin:20px;
+    padding:5px;
+    font-size:20px;
+    text-decoration:none;
+    color:white;
+    border:3px solid navy;
+    border-radius:10px;
+    background-color:navy;
+}
+.production{
+    background-color:white;
+    color:royalblue;
+}
+nav{
+    margin:15px;
+}
+.product{
+    border-radius:10px;
+    border:3px solid navy;
+    padding:5px;
+}
+h2{
+    color:navy;
+}
+.con{
+    text-decoration:none;
+    color:royalblue;
+    border:3px solid navy;
+    padding:5px;
+}
+.naverh {
+   text-decoration:none;
+    color:royalblue;
+    border:3px solid navy;
+    padding:5px; 
+}
